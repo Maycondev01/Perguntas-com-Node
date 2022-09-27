@@ -1,0 +1,33 @@
+.logo {
+    width: 80px;
+    border-radius: 50%;
+}
+
+#formulario-pergunta {
+    margin-top: 5vh;
+}
+
+#conteudo-home {
+    margin-top: 10vh;
+}
+#conteudo-home h2 {
+    text-align: center;
+}
+
+#conteudo-pg {
+    margin-top: 30px;
+}
+#conteudo-pg h3 {
+    text-align: center;
+}
+
+#botao {
+    width: 100%;
+    margin-top: 3vh;
+    border-radius: 15px;
+}
+
+#botao:hover {
+    background: blue;
+    color: #fff;
+}
